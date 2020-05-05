@@ -31,7 +31,7 @@ thought process for individual steps.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [MEDIUM LINK](https://medium.com).
+The main findings can be found at the post available [HERE](https://medium.com).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
