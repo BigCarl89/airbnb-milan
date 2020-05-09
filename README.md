@@ -31,7 +31,7 @@ thought process for individual steps.
 
 ## Results<a name="results"></a>
 
-The main findings can be found at the post available [HERE](https://medium.com).
+The main findings can be found at the post available [HERE](https://medium.com/@albertocarlone89/an-insight-on-airbnb-in-milan-6fc632d7b14e) and inside the notebook.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
